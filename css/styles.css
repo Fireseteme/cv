@@ -11,18 +11,18 @@
     border-color: #a9294f;
   }
   h1{
-    color: #6f9eaf;
+    color: #e8e9a1;
     margin: 50px auto 0 auto;
     font-family: Sacramento, cursive;
     font-size: 562%;
   }
   h2{
-    color: #6f9eaf;
+    color: #e8e9a1;
     font-family: Montserrat, sans-serif;
     font-size: 2.5rem;
   }
   h3{
-      color: #6f9eaf;
+      color: #e8e9a1;
       font-family: Montserrat, sans-serif;
   }
 .Anonym{
@@ -42,7 +42,6 @@
   right: 0;
   width: 40%;
   margin-top: 0;
-  background: white;
   padding: 5px;
   border-radius: 50%;
   font-family: Sacramento, cursive;
