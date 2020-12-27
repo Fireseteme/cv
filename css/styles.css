@@ -1,6 +1,8 @@
   body {
     background-color: 	#808080;
-  }
+    position: relative;
+    font-family: Merriweather, serif;
+    }
   hr{
     width: 10%;
     border-style: none;
@@ -10,9 +12,17 @@
   }
   h1{
     color: #6f9eaf;
+    margin: auto;
+    font-family: Sacramento, cursive;
+    font-size: 562%;
   }
   h2{
     color: #6f9eaf;
+    font-family: Montserrat, sans-serif;
+  }
+  h3{
+      color: #6f9eaf;
+      font-family: Montserrat, sans-serif;
   }
 .Anonym{
   border-radius: 50%;
@@ -40,4 +50,36 @@
 }
 .centerTalign{
   text-align: center;
+}
+
+.topContainer{
+  background-color: grey;
+  padding-top: 100px;
+  top: 30px;
+}
+.middleContainer{
+
+}
+.bottomContainer{
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountain{
+
+}
+
+.relative{
+  position: relative;
 }
