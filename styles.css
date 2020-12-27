@@ -1,0 +1,107 @@
+  body {
+    background-color: 	#808080;
+    position: relative;
+    font-family: Merriweather, serif;
+    }
+  hr{
+    width: 10%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-color: #a9294f;
+  }
+  h1{
+    color: #e8e9a1;
+    margin: 50px auto 0 auto;
+    font-family: Sacramento, cursive;
+    font-size: 562%;
+  }
+  h2{
+    color: #e8e9a1;
+    font-family: Montserrat, sans-serif;
+    font-size: 2.5rem;
+  }
+  h3{
+      color: #e8e9a1;
+      font-family: Montserrat, sans-serif;
+  }
+.Anonym{
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.7;
+  filter: drop-shadow(8px 8px 30px black);
+}
+
+.lista{
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 40%;
+  margin-top: 0;
+  padding: 5px;
+  border-radius: 50%;
+  font-family: Sacramento, cursive;
+  font-size: 1.5rem;
+  background-color: #a3d2ca;
+}
+.Sorting{
+  font-size: 20px;
+  color: #a9294f;
+}
+.centerTalign{
+  text-align: center;
+}
+
+.topContainer{
+  background-color: grey;
+  padding-top: 100px;
+  top: 30px;
+}
+.middleContainer{
+
+}
+.bottomContainer{
+  width: 90%;
+  margin: auto;
+  background-color: #d4e2d4;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountain{
+
+}
+
+.relative{
+  position: relative;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.contact-me{
+  width: 90%;
+  margin: auto;
+  background-color: #d4e2d4;
+}
+.leftmiddle50{
+  width: 35%;
+  text-align: left;
+  margin: auto;
+}
